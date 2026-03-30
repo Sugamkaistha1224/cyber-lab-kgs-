@@ -32,7 +32,7 @@ This project is built using modern web technologies:
 
 ---
 
-##🧠 Project Concept
+🧠 Project Concept
 Cyber Lab is built to:
 
 - **Improve awareness of cyber threats**
@@ -40,16 +40,16 @@ Cyber Lab is built to:
 - **Deliver a smooth and interactive user experience**
 
 ---
-##🏢 Organization
+🏢 Organization
 Developed under KaisthaGroups
 🌐 Website: www.kaisthagroups.com
 
-##👨‍💻 Developer
+👨‍💻 Developer
 Sugam Kaistha
 🌐 Portfolio: https://sugamkaistha.vercel.app/
 
 ---
-##📈 Future Enhancements
+📈 Future Enhancements
 Advanced AI threat detection
 
 - **File & malware scanning**
