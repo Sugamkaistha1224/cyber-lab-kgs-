@@ -42,12 +42,11 @@ Cyber Lab is built to:
 ---
 ##🏢 Organization
 Developed under KaisthaGroups
-##🌐 Website: www.kaisthagroups.com
+🌐 Website: www.kaisthagroups.com
 
----
 ##👨‍💻 Developer
 Sugam Kaistha
-##🌐 Portfolio: https://sugamkaistha.vercel.app/
+🌐 Portfolio: https://sugamkaistha.vercel.app/
 
 ---
 ##📈 Future Enhancements
